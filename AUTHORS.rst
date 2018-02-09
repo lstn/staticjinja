@@ -22,3 +22,4 @@ Patches and Suggestions
 - saschalalala
 - Tim Best (timbest)
 - Dimitris Zervas (dzervas)
+- Lucas Estienne (lstn)

@@ -1,3 +1,9 @@
+0.4.0.b
+-----
+
+ * Jinja globals from yaml config file
+
+ * Maintenance updates.
 
 0.3.3
 -----

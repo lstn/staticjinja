@@ -1,11 +1,11 @@
 staticjinja
 ===========
 
-.. image:: https://badge.fury.io/py/staticjinja.png
-    :target: http://badge.fury.io/py/staticjinja
+.. image:: https://badge.fury.io/py/staticjinja2.png
+    :target: http://badge.fury.io/py/staticjinja2
 
-.. image:: https://travis-ci.org/Ceasar/staticjinja.svg
-    :target: https://travis-ci.org/Ceasar/staticjinja
+.. image:: https://travis-ci.org/lstn/staticjinja2.svg
+    :target: https://travis-ci.org/lstn/staticjinja2
 
 staticjinja is a library for easily deploying static sites using the
 Jinja2_ template engine.
@@ -37,7 +37,7 @@ To install staticjinja, simply:
 
 .. code-block:: bash
 
-    $ pip install staticjinja
+    $ pip install staticjinja2
 
 Documentation
 -------------
@@ -55,6 +55,6 @@ Contribute
 #. Send a pull request and bug the maintainer until it gets merged and
    published. :) Make sure to add yourself to AUTHORS_.
 
-.. _`the repository`: https://github.com/Ceasar/staticjinja
-.. _AUTHORS: https://github.com/Ceasar/staticjinja/blob/master/AUTHORS.rst
+.. _`the repository`: https://github.com/lstn/staticjinja
+.. _AUTHORS: https://github.com/lstn/staticjinja/blob/master/AUTHORS.rst
 .. _Jinja2: http://jinja.pocoo.org/

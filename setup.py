@@ -1,16 +1,18 @@
 from setuptools import setup
 
-__version_info__ = ('0', '3', '3')
+__version_info__ = ('0', '4', '0', 'b1')
 __version__ = '.'.join(__version_info__)
 
 setup(
-    name="staticjinja",
+    name="staticjinja2",
     version=__version__,
-    description="jinja based static site generator",
+    description="Original Author: Ceasar Bautista - jinja based static site generator",
     author="Ceasar Bautista",
     author_email="cbautista2010@gmail.com",
-    url="https://github.com/Ceasar/staticjinja",
-    keywords=["jinja", "static", "website"],
+    maintainer="Lucas Estienne",
+    maintainer_email="lucas@limaecho.ca",
+    url="https://github.com/lstn/staticjinja",
+    keywords=["staticjinja", "jinja", "static", "website"],
     packages=["staticjinja"],
     entry_points={
         'console_scripts': [
@@ -21,6 +23,7 @@ setup(
         "docopt",
         "easywatch",
         "jinja2",
+        "PyYAML",
     ],
     classifiers=[
         "Intended Audience :: Developers",
@@ -33,6 +36,8 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.3",
         "Programming Language :: Python :: 3.4",
+        "Programming Language :: Python :: 3.5",
+        "Programming Language :: Python :: 3.6",
         "Topic :: Software Development :: Libraries :: Python Modules",
         "Development Status :: 4 - Beta",
     ]
