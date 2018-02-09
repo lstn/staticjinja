@@ -4,8 +4,8 @@ staticjinja
 .. image:: https://badge.fury.io/py/staticjinja2.png
     :target: http://badge.fury.io/py/staticjinja2
 
-.. image:: https://travis-ci.org/lstn/staticjinja2.svg
-    :target: https://travis-ci.org/lstn/staticjinja2
+.. image:: https://travis-ci.org/lstn/staticjinja.svg
+    :target: https://travis-ci.org/lstn/staticjinja
 
 staticjinja is a library for easily deploying static sites using the
 Jinja2_ template engine.
